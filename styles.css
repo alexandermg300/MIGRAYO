@@ -208,8 +208,8 @@ footer {
 }
 
 .logo img {
-  width: 40px;       /* tamaño del logo */
-  height: 40px;
+  width: 90px;       /* tamaño del logo */
+  height: 90px;
   object-fit: contain;
   transition: transform 0.3s ease, filter 0.3s ease;
 }
